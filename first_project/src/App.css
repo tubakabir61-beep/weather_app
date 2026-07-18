@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('./fonts/Godofthunder-0WO1P.ttf') format('truetype');
+}
+
+.font-thunder {
+  font-family: 'MyCustomFont', sans-serif;
+}
